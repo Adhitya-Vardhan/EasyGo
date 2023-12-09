@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of the easygo website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "all",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.0",
+    "m": "^1.8.4",
+    "mongoose": "^7.3.1",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1",
+    "validator": "^13.9.0"
+  }
+}
